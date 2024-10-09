@@ -17,6 +17,6 @@ Studia na kierunku Informatyk
 Rok rozpoczęcia: 2022 - teraz
 
 ## Kontakt
-- **Email:** dominik.lukowski@mirit.pl
+- **Email:** dominik1213141555@gmail.com
 
 Dziękuję za odwiedzenie mojego portfolio! Czekam na nowe wyzwania i możliwości współpracy.
