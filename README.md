@@ -1,6 +1,6 @@
 
 ## O mnie
-Cześć! Jestem pasjonatem programowania, specjalizującym się w **Vue.js** i **Laravel**. Aktualnie studiuję na Uniwersytecie Kaliski, gdzie rozwijam swoje umiejętności w zakresie tworzenia aplikacji webowych. 
+Cześć! Jestem pasjonatem programowania, specjalizującym się w **Vue.js** i **Laravel**. Aktualnie studiuję na Uniwersytecie Kaliskim, gdzie rozwijam swoje umiejętności w zakresie tworzenia aplikacji webowych. 
 
 W przeszłości stworzyłem również grę mobilną w **Unity**, co pozwoliło mi zgłębić temat gier oraz programowania na urządzenia mobilne.
 
