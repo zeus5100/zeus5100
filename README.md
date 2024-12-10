@@ -20,6 +20,6 @@ Rok rozpoczęcia: 2022 - teraz
 - **Email:** dominik1213141555@gmail.com
 
 ## Prywatne opinie 
-- **1** Docker, *****. Serio nie polecam używać dockera!
+- **1.** Docker *****. Serio nie polecam używać dockera!
 
 Dziękuję za odwiedzenie mojego portfolio! Czekam na nowe wyzwania i możliwości współpracy.
