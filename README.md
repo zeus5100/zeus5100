@@ -1,18 +1,16 @@
 
 ## O mnie
-Cześć! Jestem pasjonatem programowania, specjalizującym się w **Vue.js** i **Laravel**. Aktualnie studiuję na Uniwersytecie Kaliskim, gdzie rozwijam swoje umiejętności w zakresie tworzenia aplikacji webowych. 
+Cześć! Jestem pasjonatem programowania, specjalizującym się w **Vue.js** i **Laravel**.
 
 ## Umiejętności
 - **Frontend:** Vue.js, HTML, CSS, JavaScript
 - **Backend:** Laravel, PHP
-- **Bazy danych:** MySQL, SQLite
+- **Bazy danych:** MySQL, SQLite, Firebase
 - **Inne:** Flutter, Git
 
-
-## Edukacja
+## Wykształcenie
 **Uniwersytet Kaliski**  
-Studia na kierunku Informatyk
-Rok rozpoczęcia: 2022 - teraz
+Inżynier Informatyki, 2026
 
 ## Kontakt
 - **Email:** dominik1213141555@gmail.com
